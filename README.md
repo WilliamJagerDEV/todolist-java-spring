@@ -1,5 +1,8 @@
 # todolist-java-spring
 
+## H2 Database
+- console: http://localhost:8080/h2-console/
+
 ## API REQUESTS
 
 ### Cadastro de Usuários
@@ -38,6 +41,3 @@ PUT - url: http://localhost:8080/tasks/8ceee112-df61-425d-872b-cc8a172083c4
 {
     "title": "TodoList - Java Spring"
 }
-
-### H2 Database
-- console: http://localhost:8080/h2-console/
