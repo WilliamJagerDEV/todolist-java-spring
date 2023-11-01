@@ -83,12 +83,4 @@ public class TaskController {
 
 }
 
-// update parcial - aula 4 completa e testada
 
-// validando usuário dono  completo - ate 00:34:35
-
-// 00:34:36  try catch - completo - ate 00:10:35
-
-// 00:10:36 - live reload - completo
-
-// 00:12:53 deploy - 
